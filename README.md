@@ -32,8 +32,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ## 🛠 Tools
 
-![VSCode](https://img.shields.io/badge/VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)![Eslint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white)![babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)\
-![electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)![docker compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)![AWS](https://img.shields.io/badge/Amazon_ECS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)![Eslint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white)![babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)\
+![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)![AWS](https://img.shields.io/badge/Amazon_ECS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 👄 Languages
 
@@ -57,7 +58,6 @@
 <!-- ![storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) -->
 <!-- ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) -->
 <!-- ![chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=Chai&logoColor=white) -->
-<!-- ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)\ -->
 <!-- ![prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white) -->
 <!-- ![git kraken](https://img.shields.io/badge/git_kraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white) -->
 
